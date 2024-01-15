@@ -13,7 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 # Site Settings
-locale                   : kr
+lang                     : kr
 title                    : "Never Mind"
 title_separator          : "-"
 subtitle                 : "jieun's devloper blogs"
