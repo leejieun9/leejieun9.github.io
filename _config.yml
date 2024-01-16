@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Lee jieun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
@@ -111,7 +111,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "jiun031023@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -133,7 +133,7 @@ footer:
   links:
     - label: "email"
       icon: "fab fa-fw fa-email-square"
-      url: leejieun1023@naver.com
+      url: jiun031023@naver.com
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
