@@ -19,7 +19,7 @@ title                    : "Never Mind"
 title_separator          : "-"
 subtitle                 : "jieun's devloper blogs"
 name                     : "Lee jieun"
-description              : "우당탕탕 굴러가는 초보개발자의 성장일기."
+description              : 
 url                      : "https://leejieun9.github.io"
 baseurl                  : #"leejieun9/leejieun9.github.io" # the subpath of your site, e.g. "/blog"
 repository               :  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Lee jieun"
   avatar           :"/assets/images/3-8.jpg"
-  bio              : "무능한 대학생"
+  bio              : #
   location         : "Seoul Korea"
   email            : "jiun031023@naver.com"
   links:
