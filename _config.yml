@@ -25,7 +25,7 @@ url                      : "https://leejieun9.github.io"
 
 baseurl: # "leejieun9/leejieun9.github.io", e.g. "/blog"
 repository: "leejieun9/leejieun9.github.io" # GitHub Repo 이름
-teaser: # path of fallback teaser image, e.g."/assets/images/3-12.png"
+teaser: # path of fallback teaser image, e.g. # "/assets/images/3-12.png"
 
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
       name             : "Lee jieun"
-      avatar           : "/assets/images/3-8.jpg"
+      avatar           : "/assets/images/3-12.png"
       bio              :
       location         : "Seoul Korea"
       email            : "jiun031023@naver.com"
