@@ -15,7 +15,7 @@
 # minimal_mistakes_skin  : # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "ko-KR" #"en-US"
+locale: "ko" #"ko-KR" #"en-US"
 title: "Never Mind" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: "jieun's devloper blogs"
