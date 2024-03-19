@@ -103,12 +103,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lee jieun"
-  avatar           :"/assets/images/3-8.jpg"
-  bio              : #
-  location         : "Seoul Korea"
-  email            : "jiun031023@naver.com"
-  links:
+      name             : "Lee jieun"
+      avatar           :"/assets/images/3-8.jpg"
+      bio              : #
+      location         : "Seoul Korea"
+      email            : "jiun031023@naver.com"
+      links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "jiun031023@naver.com"
