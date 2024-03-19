@@ -14,7 +14,7 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 # minimal_mistakes_skin  : # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "Ko"
 title                    : "Never Mind"
 title_separator          : "-"
 subtitle                 : "jieun's devloper blogs"
