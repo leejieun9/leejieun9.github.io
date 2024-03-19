@@ -14,7 +14,7 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 # minimal_mistakes_skin  : # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
-locale                   : "kr"
+locale                   : "ko"
 #locale : "Ko-kr"이었음
 title                    : "Never Mind"
 title_separator          : "-"
