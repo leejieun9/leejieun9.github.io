@@ -13,18 +13,18 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 # minimal_mistakes_skin  : # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale: "ko-KR" #"en-US"
-#locale : "Ko"이었음
-title                    : "Never Mind"
-title_separator          : "&#124;"
-subtitle                 : "jieun's devloper blogs"
-name                     : "Lee jieun"
-description              : "우당탕탕 흘러가는 무능한 대학생의 블로그"
-url                      : "https://leejieun9.github.io"
+title: "Never Mind" # 상단 헤더에 보이는 블로그 명
+title_separator: "&#124;"
+subtitle: "jieun's devloper blogs"
+name: "Lee jieun" # 블로그 닉네임 설정
+description: "우당탕탕 흘러가는 무능한 대학생의 블로그" # 블로그 설명
+url: "https://leejieun9.github.io" # 블로그 URL
 
-baseurl: # "leejieun9/leejieun9.github.io", e.g. "/blog"
-repository: "leejieun9/leejieun9.github.io" # GitHub Repo 이름
+baseurl: # the subpath of your site, e.g. "/blog"
+repository:  "leejieun9/leejieun9.github.io" # GitHub Repo 이름
 teaser: # path of fallback teaser image, e.g. # "/assets/images/3-12.png"
 
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
