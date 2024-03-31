@@ -62,7 +62,7 @@ toc: true
 ## 3.3. 05\js-content-2.js를 수정해서 연락처를 클릭하면 '1234-5678'이 '1111-2222'로 바뀌게 하시오.
 
  <br>
-바뀌기 전
+### HTML
 ```js
 
 <!DOCTYPE html>
@@ -91,7 +91,8 @@ toc: true
 </html>
 ```
 
-바뀐 후
+수정한 javaScripts
+
 ```js
 
 const title = document.querySelector("#title");
