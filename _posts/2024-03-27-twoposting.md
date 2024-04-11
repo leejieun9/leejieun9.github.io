@@ -11,7 +11,8 @@ toc: true
 이무진이 부릅니다 -과제곡-
 
  ~~알아서 머리속 재생하시면서 보십쇼~~
-
+<br>
+<br>
 ---
 
 ## 문제1번
@@ -41,10 +42,12 @@ toc: true
 <br>
 
 ## 문제 2번
+<br>
 
 ## 2. 다음과 같은 코드에서 sample text를 클릭했을 때, p 태그의 fz20 클래스 속성을 삭제하고, sample text를 change text로 변경하고 싶다면 (가), (나)에 들어갈 내용으로 맞게 짝지어진 것을 고르세요.
 
 <br>
+
 ```js
     <p id="text" class="red-color fz20">sample text</p>
     <script>
@@ -55,7 +58,7 @@ toc: true
         }
     </script>
  ```
-
+<br>
   (가) - (나)
 
 ① dataset - removeClass("fz20") <br>
