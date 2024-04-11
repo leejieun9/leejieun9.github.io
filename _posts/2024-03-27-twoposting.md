@@ -1,6 +1,6 @@
 ---
 categories: JavaScripts
-title: " 자바스크립트 5장 DOM 기초 과제"
+title: "자바스크립트 5장 DOM 기초 과제"
 date: 2024-03-30 00:23:03
 toc: true
 ---
