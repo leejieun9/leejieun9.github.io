@@ -1,6 +1,6 @@
 ---
 categories: JavaScripts
-title: "자바스크립트 7장 DOM 활용하기 문제(2) "
+title: "자바스크립트 7장 DOM 활용하기 문제 보고서(2) "
 date: 2024-04-16 00:23:03
 toc: true
 ---
