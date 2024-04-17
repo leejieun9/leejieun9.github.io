@@ -1,6 +1,6 @@
 ---
 categories: JavaScripts
-title: "자바스크립트 7장 DOM 활용하기 문제 보고서(2) "
+title: "자바스크립트 7장 DOM 활용하기 실습습 보고서(2) "
 date: 2024-04-16 00:23:03
 toc: true
 ---
@@ -62,9 +62,9 @@ toc: true
 ![test1](https://github.com/leejieun9/leejieun9.github.io/blob/master/docs/assets/images/7-8.PNG?raw=true)
 <br>
 
-## 문제2 && 문제 풀이2
+## 문제2 
 
-**2.행(row)과 열(column)의 개수를 입력한 값에 따라 힌트를 참고하여 표를 그리는 소스를 작성하세요.** <br>
+### 2.행(row)과 열(column)의 개수를 입력한 값에 따라 힌트를 참고하여 표를 그리는 소스를 작성하세요.** <br>
 **표를 구성하는 table, td, tr 요소의 관계를 잘 생각하고 노드를 추가하여 작성하세요.** <br>
 **여기에서는 작성한 소스가 완벽하지 않더라도 DOM을 사용해 표를 그리는 것에 집중해 만들어 보세요.** <br>
 
