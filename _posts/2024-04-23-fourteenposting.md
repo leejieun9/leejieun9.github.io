@@ -17,15 +17,16 @@ const studentObj = {
 studentObj.gender = "female";
 delete studentObj.age;
 ```
-➀ ['name', 'age', 'gender']
+<br>
+➀ ['name', 'age', 'gender'] <br>
 
-➁ ['age', 'gender']
+➁ ['age', 'gender'] <br>
 
-➂ ['name', 'gender']
+➂ ['name', 'gender'] <br>
 
-➃ ['name', 'age']
+➃ ['name', 'age'] <br>
 
-➄ ['age']
+➄ ['age'] <br>
 
 
 [정답]: 3번
@@ -41,25 +42,25 @@ delete studentObj.age;
 ### 2. 다음 중 obj 변수에 할당된 객체의 속성과 값이 다른 하나를 고르세요.
 
 ```js
-➀  const obj = {name: "철수"};
+➀  const obj = {name: "철수"}; <br>
 
-➁ const obj = {};
-
-    obj.name = "철수";
-
-➂ const obj = {name: "철수", age: 20};
-
-    delete obj.name;
-
-➃ const obj = {name: "영희"};
+➁ const obj = {}; <br>
 
     obj.name = "철수";
+<br>
+➂ const obj = {name: "철수", age: 20}; <br>
+<br>
+    delete obj.name; <br>
 
-➄ const obj = {};
+➃ const obj = {name: "영희"}; <br>
 
-    const obj2 = obj;
+    obj.name = "철수"; <br>
 
-    obj2.name = "철수";
+➄ const obj = {}; <br>
+
+    const obj2 = obj; <br>
+
+    obj2.name = "철수"; <br>
 ```
 [정답]: 2번
 해설: `obj` 변수에 할당된 객체는 속성과 값이 모두 없는 빈 객체입니다. 다른 옵션들은 속성과 값이 있는 객체를 할당하거나 생성하는 예시입니다.
@@ -85,7 +86,7 @@ delete studentObj.age;
 
 ## 문제 4번
 
-###4. 자바스크립트에서 키워드 this가 의미하는 것은?
+###4. 자바스크립트에서 키워드 this가 의미하는 것은? <br>
 
 ➀  현재 스크립트     ➁ 현재 문서      ➂ 현재 객체      ➃ 현재 브라우저
 
