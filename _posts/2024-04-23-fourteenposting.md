@@ -17,7 +17,9 @@ const studentObj = {
 studentObj.gender = "female";
 delete studentObj.age;
 ```
+
 <br>
+
 ➀ ['name', 'age', 'gender'] <br>
 
 ➁ ['age', 'gender'] <br>
@@ -26,10 +28,10 @@ delete studentObj.age;
 
 ➃ ['name', 'age'] <br>
 
-➄ ['age'] <br>
-
-
-[정답]: 3번
+➄ ['age'] 
+<br>
+<br>
+[정답]: 3번 <br>
 
 `delete` 연산자를 호출하여 `studentObj` 객체의 `age` 속성이 삭제되었으므로, `studentObj`의 key는 `['name', 'gender']`입니다. 
 <br>
@@ -62,7 +64,8 @@ delete studentObj.age;
 
     obj2.name = "철수"; <br>
 ```
-[정답]: 2번
+[정답]: 2번 <br>
+
 해설: `obj` 변수에 할당된 객체는 속성과 값이 모두 없는 빈 객체입니다. 다른 옵션들은 속성과 값이 있는 객체를 할당하거나 생성하는 예시입니다.
 
 `const obj = {};`는 빈 객체를 생성하고, `obj.name`은 `undefined`를 반환합니다.
@@ -86,11 +89,12 @@ delete studentObj.age;
 
 ## 문제 4번
 
-###4. 자바스크립트에서 키워드 this가 의미하는 것은? <br>
+### 4. 자바스크립트에서 키워드 this가 의미하는 것은? <br>
 
 ➀  현재 스크립트     ➁ 현재 문서      ➂ 현재 객체      ➃ 현재 브라우저
 
-[정답] : 3번 현재 객체
+[정답] : 3번 현재 객체 <br>
+
 해설: 메소드 내에서 'this' 는 해당 메소드가 속한 객체를 가리킵니다.
 
 <br>
@@ -102,7 +106,8 @@ delete studentObj.age;
 
 ➀  dog.color = 'orange';     ➁ dog[color] = 'orange';     ➂ dog_color = 'orange';     ➃ let dog.color = 'orange';
 
-[정답] : 1번 dog.color = 'orange';
+[정답] : 1번 dog.color = 'orange'; <br>
+
 해설: 객체의 속성은 점(dot) 연산자를 사용하여 설정할 수 있습니다.
 
 <br>
@@ -112,9 +117,9 @@ delete studentObj.age;
 
 ### 6. 사용자를 나타내는 객체를 생성하고자 한다. 객체는 아이디, 나이, 패스워드 속성을 가지고 있다. {kim, 20, 1234} 값을 이용해 객체 하나를 생성한 후 객체의 모든 속성을 웹 페이지에 출력하는 코드를 작성하시오. 
 
+```js
 [코드]
 
-```js
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -129,10 +134,9 @@ delete studentObj.age;
   age: 20,
   password: 1234,
 };
-
 // 객체 속성 출력
 console.log(user); // 출력: { id: 'kim', age: 20, password: 1234 }
-
+    
 // 웹 페이지에 출력
 document.body.innerHTML += "<p>사용자 ID: " + user.id + "</p>";
 document.body.innerHTML += "<p>나이: " + user.age + "</p>";
@@ -141,11 +145,7 @@ document.body.innerHTML += "<p>비밀번호: " + user.password + "</p>";
   </script>
 </body>
 </html>
-​```
-
+```
 [결과]
 
 ![test1](https://github.com/leejieun9/leejieun9.github.io/blob/master/docs/assets/images/9-4.PNG?raw=true)
-
-<br>
-<br>
