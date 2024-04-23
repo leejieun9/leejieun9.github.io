@@ -1,7 +1,7 @@
 ---
 categories: JavaScripts
 title: " 자바스크립트 9장 자바스크립트 객체 과제"
-date: 2024-04-23 22:09:03
+date: 2024-04-23 22:10:23
 toc: true
 ---
 
