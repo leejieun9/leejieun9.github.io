@@ -32,7 +32,8 @@ delete studentObj.age;
 <br>
 <br>
 [정답]: 3번 <br>
-
+<br>
+<br>
 `delete` 연산자를 호출하여 `studentObj` 객체의 `age` 속성이 삭제되었으므로, `studentObj`의 key는 `['name', 'gender']`입니다. 
 <br>
 <br>
@@ -64,8 +65,10 @@ delete studentObj.age;
 
     obj2.name = "철수"; <br>
 ```
+<br>
+<br>
 [정답]: 2번 <br>
-
+<br>
 해설: `obj` 변수에 할당된 객체는 속성과 값이 모두 없는 빈 객체입니다. 다른 옵션들은 속성과 값이 있는 객체를 할당하거나 생성하는 예시입니다.
 
 `const obj = {};`는 빈 객체를 생성하고, `obj.name`은 `undefined`를 반환합니다.
@@ -79,9 +82,12 @@ delete studentObj.age;
 ### 3. 자바스크립트에서 객체를 생성하는 키워드로 알맞은 것은?
 
 ➀  instance      ➁ object      ➂ new      ➃ create
-
+<br>
+<br>
+<br>
 [정답] : 3번
-
+<br>
+<br>
 해설: 생성자 함수를 호출하여 새로운 객체를 생성할 때 사용됩니다.
 
 <br>
@@ -92,11 +98,13 @@ delete studentObj.age;
 ### 4. 자바스크립트에서 키워드 this가 의미하는 것은? <br>
 
 ➀  현재 스크립트     ➁ 현재 문서      ➂ 현재 객체      ➃ 현재 브라우저
-
+<br>
+<br>
+<br>
 [정답] : 3번 현재 객체 <br>
-
+<br>
+<br>
 해설: 메소드 내에서 'this' 는 해당 메소드가 속한 객체를 가리킵니다.
-
 <br>
 <br>
 
@@ -107,7 +115,9 @@ delete studentObj.age;
 ➀  dog.color = 'orange';     ➁ dog[color] = 'orange';     ➂ dog_color = 'orange';     ➃ let dog.color = 'orange';
 
 [정답] : 1번 dog.color = 'orange'; <br>
-
+<br>
+<br>
+<br>
 해설: 객체의 속성은 점(dot) 연산자를 사용하여 설정할 수 있습니다.
 
 <br>
