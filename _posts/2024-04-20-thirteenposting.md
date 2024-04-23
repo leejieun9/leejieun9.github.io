@@ -65,7 +65,8 @@ button.addEventListener("click", function (event) {
 ## 문제 3번
 
 ### 3. [실습] 프로토타입을 상속하는 새로운 객체 만들기
-
+<br>
+<br>
 
 ```js
 function Book (title, price) {
@@ -97,6 +98,9 @@ book2.buyTextbook();     // Textbook 객체의 메서드 사용
 book2.buy();             // Book 객체의 메서드 사용
 
 ```
+<br>
+<br>
+
 ## 문제 4번
 
 ### 4.[실습] 클래스 상속 연습하기
