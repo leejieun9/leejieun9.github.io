@@ -26,7 +26,7 @@ greeting.charAt(2);
 <br>
 
 ## 문제 2번
-
+<br>
 ## 2. 교재 p.340의 소스에서 if 문에 대괄호 대신 charAt() 메서드를 사용하시오. <br>
 
 ```js
