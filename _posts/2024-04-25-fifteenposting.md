@@ -1,7 +1,7 @@
 ---
 categories: JavaScripts
 title: " 10장 문자열과 배열 활용하기 과제"
-date: 2024-04-26 00:00:02
+date: 2024-04-25 00:00:02
 toc: true
 ---
 
