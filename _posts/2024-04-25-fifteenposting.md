@@ -65,15 +65,18 @@ let grades = new Array("A", "B", "C", "D");
 
 ### 3. 주석에 맞게 다음 빈 칸을 채우시오.
 ```js
-let ______________________________               // Array를 이용하여 크기가 3인 배열 money 생성 <br>
-_____________________________ = 5;               // money의 첫 번째 요소에 5 삽입 <br>
-_____________________________ = 7;               // money의 첫 번째 요소에 7 삽입 <br>
-_____________________________ = -3;              // money의 첫 번째 요소에 -3 삽입 <br>
+let _________               // Array를 이용하여 크기가 3인 배열 money 생성 <br>
+____ = 5;               // money의 첫 번째 요소에 5 삽입 <br>
+____________ = 7;               // money의 첫 번째 요소에 7 삽입 <br>
+_______ = -3;              // money의 첫 번째 요소에 -3 삽입 <br>
 let sum = 0; <br>
-for (let i=0; i<_______________; i++) sum += money[i];     // 배열 합 구하기<br>
-document.write(________________);                // 평균 출력 <br>
-```
+for (let i=0; i<____; i++) sum += money[i];     // 배열 합 구하기<br>
+document.write(_____);                // 평균 출력 <br>
+``<br>`
+
 <빈칸채우기>
+
+<br>
 ```js
 let money = Array(3);  // Array를 이용하여 크기가 3인 배열 money 생성 
     money [0]= 5;      // money의 첫 번째 요소에 5 삽입 
@@ -92,8 +95,11 @@ document.write(sum/money.length);                // 평균 출력 <br>
 <br>
 
 ### 4. 다음의 자바 스크립트 코드가 있을 때 아래 각 항목의 실행 결과 변수 x의 값은 무엇인가?
+<br>
 
 **let text = "Web Programming";**
+
+<br>
 
 | 코드 | x값 |
 | ---------- | ---------- |
@@ -102,6 +108,8 @@ document.write(sum/money.length);                // 평균 출력 <br>
 | let x = text.split(" ").length;  | 2 |  
 |let x = text.replace("web", "HTML5");  | We Programming |
 |let x = text.charAt(4);   | g |
+
+<br> 
 
 ## 문제 5번
 
