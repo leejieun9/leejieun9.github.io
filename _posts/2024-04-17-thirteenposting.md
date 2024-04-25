@@ -1,7 +1,7 @@
 ---
 categories: JavaScripts
 title: "자바 스크립트 8장 내장객체 보고서 (1)"
-date: 2024-04-17 00:23:03
+date: 2024-04-17 21:20:03
 toc: true
 ---
 
