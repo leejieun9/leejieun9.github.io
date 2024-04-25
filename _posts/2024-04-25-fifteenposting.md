@@ -87,7 +87,8 @@ document.write(sum/money.length);                // 평균 출력 <br>
 <br>
 <br>
 
-## 4번
+## 문제 4번
+
 <br>
 
 ### 4. 다음의 자바 스크립트 코드가 있을 때 아래 각 항목의 실행 결과 변수 x의 값은 무엇인가?
@@ -102,7 +103,7 @@ document.write(sum/money.length);                // 평균 출력 <br>
 |let x = text.replace("web", "HTML5");  | We Programming |
 |let x = text.charAt(4);   | g |
 
-## 5번
+## 문제 5번
 
 ### 5. prompt 함수를 호출하여 사용자로부터 문자열을 입력받고, "&" 문자를 기준으로 분할하여 출력하는 웹 페이지를 작성하시오.
 
