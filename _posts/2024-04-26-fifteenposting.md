@@ -1,7 +1,7 @@
 ---
 categories: JavaScripts
 title: " 10장 문자열과 배열 활용하기 과제"
-date: 2024-04-25 22:59:03
+date: 2024-04-26 00:00:02
 toc: true
 ---
 
@@ -11,14 +11,14 @@ toc: true
 
 ## 문제1번
 
-##  1. 다음 배열에 대한 설명 중 틀린 것은?
+###  1. 다음 배열에 대한 설명 중 틀린 것은?
 
 ```js
 let months = new Array("Jan", "Feb", "March");
 ```
 
 1) let months = ["Jan", "Feb", "March"]; 로 대신할 수 있다. <br>
->> [] () 둘다 가능하다
+> [] () 둘다 가능하다
 
 2) months.length는 3이다.
 
