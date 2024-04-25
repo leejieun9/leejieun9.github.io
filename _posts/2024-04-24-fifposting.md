@@ -22,7 +22,8 @@ toc : true
 greeting.charAt(2);
 
 ```
-
+<br>
+<br>
 
 ## 문제 2번
 
