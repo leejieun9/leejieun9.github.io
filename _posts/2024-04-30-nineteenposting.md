@@ -1,7 +1,7 @@
 ---
 categories: JavaScripts
-title: " 13장 비동기 프로그래밍 실습 보고서
-date: 2024-04-30 02:00:03
+title: " 13장 비동기 프로그래밍 실습 보고서"
+date: 2024-04-30 12:00:03
 toc : true
 ---
 
