@@ -1,6 +1,6 @@
 ---
 categories: Stringboot
-title: "스트링부트 시작하기"
+title: "2장 MVC 패턴이해와 실습"
 date: 2024-05-09 00:23:03
 toc: true
 ---
