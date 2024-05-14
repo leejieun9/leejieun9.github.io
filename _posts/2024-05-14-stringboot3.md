@@ -17,7 +17,8 @@ toc: true
 ① <form> 태그의 action 속성에는 데이터를 전달할 URL 주소가 담긴다. <br>
 ② <form> 태그의 method 속성에는 get만 사용할 수 있다. <br>
 ③ @PostMapping 어노테이션은 post 방식으로 전달된 요청을 받아 컨트롤러의 메서드에 전달한다. <br>
-④ 폼 데이터를 자동으로 받으려면 입력 폼에서 <input> , <textarea> 태그의 name 속성과 DTO 클래스의 필드명이 같아야 한다. <br>
+④ 폼 데이터를 자동으로 받으려면 입력 폼에서 input , <textarea> 태그의 name 속성과 DTO 클래스의 필드명이 같아야 한다.
+ <br>
 
 <br>
 2번 
