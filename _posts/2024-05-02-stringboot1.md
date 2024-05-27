@@ -22,8 +22,10 @@ toc: true
 
 4) src > main > resources > static
 
-정답 및 해설: 4번
-
+정답 및 해설: 4번 <br>
+서버는 해당 파일을 찾기 위해 정적 리소스를 저장하는 디렉터리를 찾습니다. <br>
+따라서 src/main/resources/static 디렉토리에 정적 리소스를 저장합니다. <br>
+localhost:8080/hello.html >> src/main/resources/staric 디렉토리에서 hello.html 파일을 찾게됩니다. <br>
 <br>
 <br>
 
