@@ -96,7 +96,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 {{>layouts/header}}
     <div class = "bg-dark text-white p-5">
-        <h1>{{randomQuote}}</h1>
+        <h1>{{ randomQuote }}</h1>
     </div>
 {{>layouts/footer}}
 ```
