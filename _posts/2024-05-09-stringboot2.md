@@ -24,11 +24,11 @@ toc: true
 ④ 뷰 템플릿
 ⑤ 모델
 
-> ㄱ-4 <뷰 템플릿>
-> ㄴ-2 <컨트롤러>
-> ㄷ-5 <모델>
-> ㄹ-1 <@Controller>
-> ㅁ-3 <@GetMapping>
+> ㄱ-4 <뷰 템플릿> <br>
+> ㄴ-2 <컨트롤러> <br>
+> ㄷ-5 <모델> <br>
+> ㄹ-1 <@Controller> <br>
+> ㅁ-3 <@GetMapping> <br>
 
 <br>
 <br>
