@@ -1,6 +1,6 @@
 ---
 categories: Stringboot
-title: "2장 MVC 패턴이해와 실습 (과제)"
+title: "6장 게시글 내 페이지 이동하기 (과제)"
 date: 2024-05-28 00:23:03
 toc: true
 ---
