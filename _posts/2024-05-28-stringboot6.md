@@ -4,6 +4,7 @@ title: "	6장 게시글 내 페이지 이동하기"
 date: 2024-05-28 00:00:03
 toc: true
 ---
+
 ## 스프링부트 6장 실습(1)
 * this list will be replaced by the table of contents
 {:toc .large-only}
