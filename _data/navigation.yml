@@ -10,10 +10,10 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 sidebar-category:
-  - title: "카테고리"
+  - title: "PROGRAMMING"
     children:
       - title: "Stringboot"
-        url: /stringboot/
+        url: /https://leejieun9.github.io/stringboot/stringboot1/
       - title: "카테고리B"
         url:  /CategoryB/
       - title: "카테고리C"
