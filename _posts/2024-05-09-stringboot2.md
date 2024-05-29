@@ -1,5 +1,6 @@
 ---
-categories: Stringboot
+categories: 
+- Stringboot
 title: "2장 MVC 패턴이해와 실습"
 date: 2024-05-09 00:23:03
 toc: true
