@@ -1,20 +1,25 @@
 # main links
 main:
-   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Search"
+    url: /search
+
 sidebar-category:
-  - title: "PROGRAMMING"
+  - title: "💻 Programming"
     children:
       - title: "Stringboot"
-        url: /https://leejieun9.github.io/stringboot/stringboot1/
-      - title: "카테고리B"
-        url:  /CategoryB/
-      - title: "카테고리C"
-        url:  /CategoryC/
+        url: /Stringboot/
+        category: "Stringboot"
+      
+      - title: "JAVA"
+        url: /JAVA/
+        category: "JAVA"
+
+      - title: "JavaScripts"
+        url: /JavaScripts/
+        category: "JavaScripts"
+
+  - title: "👔 Life"
+    children:
+      - title: "정보"
+        url: "/life-info"
+        category: "life-info"
