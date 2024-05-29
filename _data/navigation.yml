@@ -1,6 +1,6 @@
 # main links
 main:
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -9,13 +9,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-  sidebar-category:
+sidebar-category:
   - title: "카테고리"
     children:
       - title: "블로그"
-        url: "/blog"
+        url: /blog/
       - title: "카테고리B"
-        url:  "/CategoryB"
+        url:  /CategoryB/
       - title: "카테고리C"
-        url:  "/CategoryC"
+        url:  /CategoryC/
