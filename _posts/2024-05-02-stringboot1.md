@@ -1,5 +1,6 @@
 ---
-categories: Stringboot
+categories:
+  - Stringboot
 title: "스트링부트 시작하기"
 date: 2024-05-02 00:23:03
 toc: true
