@@ -6,9 +6,6 @@ toc : true
 ---
 
 ## 스프링부트 7장 실습(1)
-
-* this list will be replaced by the table of contents
-{:toc .large-only}
   <br> 
   <br>
   <br>
