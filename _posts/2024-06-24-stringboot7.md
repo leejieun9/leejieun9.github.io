@@ -1,5 +1,5 @@
 ---
-categories: JavaScripts
+categories: Stringboot
 title: " 7장 실습"
 date: 2024-06-24 00:23:03
 toc : true
